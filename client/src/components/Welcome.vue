@@ -1,0 +1,16 @@
+<template>
+  <div class="Home">
+    <h1>Home</h1>
+    <p>
+      Test
+    </p>
+
+    <h2>Amet sit</h2>
+    <p>
+      Eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
+      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
+      amet.
+    </p>
+  </div>
+</template>
